@@ -1,0 +1,20 @@
+{
+  "official_source": "https://jeemain.nta.nic.in/",
+  "question_paper_index": "https://jeemain.nta.nic.in/admission-bulletin/",
+  "mode": "source_links_and_metadata",
+  "note": "Do not bulk-copy or redistribute protected question text/images without permission.",
+  "fields": [
+    "year",
+    "session",
+    "date",
+    "shift",
+    "subject",
+    "chapter",
+    "subtopic",
+    "question_id",
+    "source_url",
+    "answer_key",
+    "solution",
+    "license_status"
+  ]
+}

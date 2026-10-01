@@ -1,0 +1,5 @@
+{
+"name":"Winter Arc OS","short_name":"Winter Arc OS","start_url":"./","display":"standalone",
+"background_color":"#080b12","theme_color":"#080b12",
+"description":"Cloud-first JEE preparation operating system",
+"icons":[{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
